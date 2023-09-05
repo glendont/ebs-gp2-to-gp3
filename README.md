@@ -1,2 +1,7 @@
 # ebs-gp2-to-gp3
-Code samples to facilitate large scale migrations of AWS EBS volumes GP2 to GP3
+
+This repository contains code sampels that makes it easy for AWS customers to migrate their existing Amazon EBS gp2 volumes to the latest generation gp3 volumes. By migrating to gp3, customers can save up to 20% lower price-point per GB than existing gp2 volumes.
+
+
+
+
